@@ -1,0 +1,24 @@
+O Ann
+O Bob
+O Carl
+O Dora
+O Ed
+O Fay
+O George
+O Harry
+O Ida
+P Ann Bob
+P Bob Carl
+P Dora Carl
+P Carl Ed
+P Fay Ed
+P Ann George
+P Ann Harry
+P George Ida
+T Ann
+U Ed
+Z Ann Ed
+Z Fay Ann
+M Ed Ann
+P Ed Ann
+X
